@@ -1,4 +1,4 @@
-# Kotlin-CompilerRun-Sublime<br>
+# Installation<br>
 <b>
   Install Kotlin in Sublime<br>
 =============================<br>
