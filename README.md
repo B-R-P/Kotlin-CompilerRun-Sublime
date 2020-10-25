@@ -16,7 +16,7 @@ C:\Users\{Username}\.IdeaIC2019.1\config\plugins\Kotlin\kotlinc\bin
 
 for *others*
 
-folder where *kotlinc.bat*(Kotlin Compiler) exist.
+folder were *kotlinc.bat*(Kotlin Compiler) exist.
 
 *Java Should be in PATHS in Environment Variable*
 
