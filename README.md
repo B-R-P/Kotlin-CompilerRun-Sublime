@@ -1,23 +1,15 @@
 # Installation
 
-## Install Kotlin in Sublime
+* Step 1
+  - Add file Kotlin.Sublime-build to `C:\Users\%username%\AppData\Roaming\Sublime Text 3\Installed Packages\Kotlin.sublime-package`
+  - **OR**
+  - Add kotlin.sublime-build to `C:\Users\%username%\AppData\Roaming\Sublime Text 3\Packages\User\`
+* Step 2
+  - Add files `hello.cmd` and `cr.bat` in 
+    - If Intelji Installated
+      - `C:\Users\%username%\.IdeaIC2019.1\config\plugins\Kotlin\kotlinc\bin`
+    - Otherwise
+      - Folder were `kotlinc.bat`(Kotlin Compiler) exist.
+      - Add this folder in **PATHS**(Environment Variable)
 
-Add file Kotlin.Sublime-build to C:\Users\{Username}\AppData\Roaming\Sublime Text 3\Installed Packages\Kotlin.sublime-package (zipfile)
-
-**OR**
-
-Add kotlin.sublime-build to C:\Users\{Username}\AppData\Roaming\Sublime Text 3\Packages\User\
-
-Add files hello.cmd and cr.bat in 
-
-*For Intelji Installated Users*
-
-C:\Users\{Username}\.IdeaIC2019.1\config\plugins\Kotlin\kotlinc\bin
-
-for *others*
-
-folder were *kotlinc.bat*(Kotlin Compiler) exist.
-
-*Java Should be in PATHS in Environment Variable*
-
-And make folder mentioned above  in **PATHS** in Environment Variable.
+> **_NOTE:_**  *Java Should be in PATHS in Environment Variable*
